@@ -1,7 +1,7 @@
 ---
 layout: posts
 permalink: /data-wrangling/
-title: "Projects"
+title: "Data Wrangling projects"
 author_profile: true
 header:
   image: "/images/laptp.jpg"
