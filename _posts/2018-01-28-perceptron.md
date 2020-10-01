@@ -1,5 +1,5 @@
 ---
-title: "Detection and Classification of Microcracks "
+title: "Detection and Classification of Microcracks in Solar Panels"
 date: 2018-01-28
 tags: [data wrangling, data science, messy data]
 header:
